@@ -163,7 +163,7 @@ $ streamlit run app.py
 ## :handshake: Contribution
 
 #### Please read the Contribution Guidelines [here](https://github.com/fasil916/face-mask-detection-new/blob/master/CONTRIBUTING.md)
-Feel free to **file a new issue** with a respective title and description on the the [Face-Mask-Detection](https://github.com/fasil916/face-mask-detection-new/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [face-mask-detection-new](https://github.com/fasil916/face-mask-detection-new/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 
 ## :eyes: Code of Conduct
