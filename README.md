@@ -25,7 +25,6 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 
  
 
-:computer: [Dev Link](https://dev.to/fasil916/face-mask-detection-new-my-major-project-3fj3)
 
 [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://face-mask--detection-app.herokuapp.com/)
 
