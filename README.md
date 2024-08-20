@@ -10,7 +10,7 @@
 [![Forks](https://img.shields.io/github/forks/fasil916/face-mask-detection-new.svg?logo=github)](https://github.com/fasil916/face-mask-detection-new/network/members)
 [![Stargazers](https://img.shields.io/github/stars/fasil916/face-mask-detection-new.svg?logo=github)](https://github.com/fasil916/face-mask-detection-new/stargazers)
 [![Issues](https://img.shields.io/github/issues/fasil916/face-mask-detection-new.svg?logo=github)](https://github.com/fasil916/face-mask-detection-new/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)]
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
