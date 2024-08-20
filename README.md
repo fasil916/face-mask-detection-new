@@ -172,6 +172,5 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 ## :heart: Owner
 Made with :heart:&nbsp;  by [fasil ](https://github.com/fasil916)
 
-## :eyes: License
-MIT © [fasil Deb](https://github.com/fasil916/face-mask-detection-new/blob/master/LICENSE)
+
 
