@@ -159,10 +159,7 @@ $ streamlit run app.py
 * [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
-## :handshake: Contribution
 
-#### Please read the Contribution Guidelines [here](https://github.com/fasil916/face-mask-detection-new/blob/master/CONTRIBUTING.md)
-Feel free to **file a new issue** with a respective title and description on the the [face-mask-detection-new](https://github.com/fasil916/face-mask-detection-new/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 
 
