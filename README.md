@@ -165,12 +165,8 @@ $ streamlit run app.py
 Feel free to **file a new issue** with a respective title and description on the the [face-mask-detection-new](https://github.com/fasil916/face-mask-detection-new/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 
-## :eyes: Code of Conduct
 
-You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
-## :heart: Owner
-Made with :heart:&nbsp;  by [fasil ](https://github.com/fasil916)
 
 
 
