@@ -5,7 +5,7 @@
 
 - To clone the Repository: <br>
 ```
-git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+git clone https://github.com/fasil916/face-mask-detection-new.git
 ```
 - Open terminal. Go into the cloned project directory and type the following command to train the model and create ResNet50_mask_detector.model file <br>
 ```
