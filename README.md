@@ -29,7 +29,7 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 
 
 
-<p align="center"><img src="https://github.com/fasil916/face-mask-detection-new/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/fasil916/face-mask-detection-new/blob/master/Readme_images/Screen%20Shot%202024-08-18%20at%208.49.06%20PM.jpg" width="700" height="400"></p>
 
 ## :star: Features
 Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient, thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
